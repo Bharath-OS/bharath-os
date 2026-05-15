@@ -23,7 +23,8 @@ Right now, I'm focused on Flutter app development and building products like **T
 ## Tech & Tools
 **Mobile:** Flutter, Dart  
 **Desktop:** Python, Flutter
-**Tools:** Git, GitHub, Figma, VS Code
+
+**Tools**: Git, GitHub, Figma, VS Code
 
 ## Philosophy
 
